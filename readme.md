@@ -22,11 +22,11 @@ All works are fictional and do not connect to any remote systems.
 
 - To get this working you will need to have python installed
 
-- Download the two files "SAGDBv1.py" and the database "sa24.db"
+- Download the three files "SAGDBv2.py" and the database "sa24.db and also the meta data "sametar.json"
 
 - open terminal and navigate to the directory containing files.
 
-- Run the python script " python SAGDBv1.py "
+- Run the python script " python SAGDBv2.py "
 
 ---
 
